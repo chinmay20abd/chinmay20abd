@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chinmay20abd
-- 👀 I’m interested in sports,movies,series.
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+- 👋 Hi, I’m @chinmaydwarakanath
+- 👀 I’m interested in sports,movies,cycling,travelling.
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
